@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include "sdt.h"
 using namespace std;
+//Комментарий 1
 int main()
 {
 	int a, b;
