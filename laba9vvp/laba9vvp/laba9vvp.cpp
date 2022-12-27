@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include "sdt.h"
 using namespace std;
+//Комментарий ошибка
 int main()
 {
 	int a, b;
